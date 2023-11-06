@@ -1,0 +1,1 @@
+console.log("Sus\"hant".length)
